@@ -1,5 +1,4 @@
 # mycode
-from posixpath import join
 import sys
 
 num = int(sys.stdin.readline())
